@@ -1,0 +1,31 @@
+Reason --> To check Functionality of function pie chart() if no donors are there
+
+Database used --> donors_tc6.txt
+		  bags_tc6.txt
+Test Run -->
+<<< LifeServe Blood Institute >>>
+Loading database...
+Enter the database file names without .txt extension
+or just press Enter to accept defaults 
+Donors Database (donors) :donors_tc6
+Stock inventory database (bags):bags_tc6
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 4
+No Donors available Hence no Pie chart could be made
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 5
+Have a Good day !!

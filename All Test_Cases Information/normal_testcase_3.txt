@@ -1,0 +1,32 @@
+Reason --> To check Functionality of function attend_to_demand() when server does not connect
+
+Database used --> donors_tc3.txt
+		  bags_tc3.txt
+Test Run -->
+<<< LifeServe Blood Institute >>>
+Loading database...
+Enter the database file names without .txt extension
+or just press Enter to accept defaults 
+Donors Database (donors) :donors_tc3
+Stock inventory database (bags):bags_tc3
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Could not connect to hospital web server.
+Please try again after some time. 
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 5
+Have a Good day !!

@@ -1,0 +1,67 @@
+Reason --> To check Functionality of function record new donation()
+
+Database used --> donors_tc4.txt
+		  bags_tc4.txt
+Test Run -->
+<<< LifeServe Blood Institute >>>
+Loading database...
+Enter the database file names without .txt extension
+or just press Enter to accept defaults 
+Donors Database (donors) :donors_tc4
+Stock inventory database (bags):bags_tc4
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 3
+Enter the donor's unique ID: 4367
+Sorry, this donor is not eligible for donation.
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 3
+Enter the donor's unique ID: 4368
+Recording a new donation with following details: 
+From: Varys Lauro
+Group: AB-
+Date: 2021-05-17
+Bag_ID: 2480
+Please confirm (y/n): n
+Cancelled
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 3
+Enter the donor's unique ID: 4368
+Recording a new donation with following details: 
+From: Varys Lauro
+Group: AB-
+Date: 2021-05-17
+Bag_ID: 2480
+Please confirm (y/n): y
+Done. Donor's last donation date also updated to 2021-05-17
+Updated database files saved to disk.
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 5
+Have a Good day !!

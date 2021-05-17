@@ -1,0 +1,430 @@
+
+Reason --> To check Functionality of function attend_to_demand()
+
+Database used --> donors_tc2.txt
+		  bags_tc2.txt
+
+Test Run -->
+<<< LifeServe Blood Institute >>>
+Loading database...
+Enter the database file names without .txt extension
+or just press Enter to accept defaults 
+Donors Database (donors) :donors_tc2
+Stock inventory database (bags):bags_tc2
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently B- blood is required. 
+Checking the stock inventory... 
+Following bag should be supplied
+ID: 2458 (O-)
+Press enter once it is packed for dispatch... 
+
+Inventory records updated.
+Updated database files saved to disk.
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently O+ blood is required. 
+Checking the stock inventory... 
+Following bag should be supplied
+ID: 2473 (O-)
+Press enter once it is packed for dispatch... 
+
+Inventory records updated.
+Updated database files saved to disk.
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently B- blood is required. 
+Checking the stock inventory... 
+Following bag should be supplied
+ID: 2478 (O-)
+Press enter once it is packed for dispatch... 
+
+Inventory records updated.
+Updated database files saved to disk.
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently A- blood is required. 
+Checking the stock inventory... 
+Following bag should be supplied
+ID: 2472 (A-)
+Press enter once it is packed for dispatch... 
+
+Inventory records updated.
+Updated database files saved to disk.
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently O+ blood is required. 
+Checking the stock inventory... 
+Following bag should be supplied
+ID: 2457 (O+)
+Press enter once it is packed for dispatch... 
+
+Inventory records updated.
+Updated database files saved to disk.
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently A+ blood is required. 
+Checking the stock inventory... 
+Following bag should be supplied
+ID: 2274 (A+)
+Press enter once it is packed for dispatch... 
+
+Inventory records updated.
+Updated database files saved to disk.
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently B+ blood is required. 
+Checking the stock inventory... 
+Following bag should be supplied
+ID: 2470 (B-)
+Press enter once it is packed for dispatch... 
+
+Inventory records updated.
+Updated database files saved to disk.
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently B- blood is required. 
+Checking the stock inventory... 
+Following bag should be supplied
+ID: 2479 (B-)
+Press enter once it is packed for dispatch... 
+
+Inventory records updated.
+Updated database files saved to disk.
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently B+ blood is required. 
+Checking the stock inventory... 
+Following bag should be supplied
+ID: 2471 (B+)
+Press enter once it is packed for dispatch... 
+
+Inventory records updated.
+Updated database files saved to disk.
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently B+ blood is required. 
+Checking the stock inventory... 
+We can not meet the requirement. Checking the donor database...
+
+Following donors match the requirements. Please contact them for new donation.
+•Trygve Imke, 0443 023 775, trygve1995@gmail.com
+•Jorgen Krysia, 0462 316 524, jkrysia@defence.gov.au
+•Gafar Farrukh, 0431 252 844, gfarrukh@csu.edu.au
+•Bethel Wayland, 0483 363 664, bethel123@yahoo.com
+•Vlatko Katarina, 0453 311 763, hellodear@faecbook.com
+•Ignatiy Claudio, 0490 868 390, iclaudio@gmail.com
+•Mariann Nader, 0449 184 787, mnader@dell.com
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently B- blood is required. 
+Checking the stock inventory... 
+We can not meet the requirement. Checking the donor database...
+
+Following donors match the requirements. Please contact them for new donation.
+•Trygve Imke, 0443 023 775, trygve1995@gmail.com
+•Jorgen Krysia, 0462 316 524, jkrysia@defence.gov.au
+•Gafar Farrukh, 0431 252 844, gfarrukh@csu.edu.au
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently AB- blood is required. 
+Checking the stock inventory... 
+Following bag should be supplied
+ID: 2456 (AB-)
+Press enter once it is packed for dispatch... 
+
+Inventory records updated.
+Updated database files saved to disk.
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Could not connect to hospital web server.
+Please try again after some time. 
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 
+Wrong Choice Entered.
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently A- blood is required. 
+Checking the stock inventory... 
+We can not meet the requirement. Checking the donor database...
+
+Following donors match the requirements. Please contact them for new donation.
+•Trygve Imke, 0443 023 775, trygve1995@gmail.com
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently AB- blood is required. 
+Checking the stock inventory... 
+Following bag should be supplied
+ID: 2474 (AB-)
+Press enter once it is packed for dispatch... 
+
+Inventory records updated.
+Updated database files saved to disk.
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently B+ blood is required. 
+Checking the stock inventory... 
+We can not meet the requirement. Checking the donor database...
+
+Following donors match the requirements. Please contact them for new donation.
+•Trygve Imke, 0443 023 775, trygve1995@gmail.com
+•Jorgen Krysia, 0462 316 524, jkrysia@defence.gov.au
+•Gafar Farrukh, 0431 252 844, gfarrukh@csu.edu.au
+•Bethel Wayland, 0483 363 664, bethel123@yahoo.com
+•Vlatko Katarina, 0453 311 763, hellodear@faecbook.com
+•Ignatiy Claudio, 0490 868 390, iclaudio@gmail.com
+•Mariann Nader, 0449 184 787, mnader@dell.com
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently O+ blood is required. 
+Checking the stock inventory... 
+We can not meet the requirement. Checking the donor database...
+
+Following donors match the requirements. Please contact them for new donation.
+•Trygve Imke, 0443 023 775, trygve1995@gmail.com
+•Ignatiy Claudio, 0490 868 390, iclaudio@gmail.com
+•Mariann Nader, 0449 184 787, mnader@dell.com
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently O+ blood is required. 
+Checking the stock inventory... 
+We can not meet the requirement. Checking the donor database...
+
+Following donors match the requirements. Please contact them for new donation.
+•Trygve Imke, 0443 023 775, trygve1995@gmail.com
+•Ignatiy Claudio, 0490 868 390, iclaudio@gmail.com
+•Mariann Nader, 0449 184 787, mnader@dell.com
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently B+ blood is required. 
+Checking the stock inventory... 
+We can not meet the requirement. Checking the donor database...
+
+Following donors match the requirements. Please contact them for new donation.
+•Trygve Imke, 0443 023 775, trygve1995@gmail.com
+•Jorgen Krysia, 0462 316 524, jkrysia@defence.gov.au
+•Gafar Farrukh, 0431 252 844, gfarrukh@csu.edu.au
+•Bethel Wayland, 0483 363 664, bethel123@yahoo.com
+•Vlatko Katarina, 0453 311 763, hellodear@faecbook.com
+•Ignatiy Claudio, 0490 868 390, iclaudio@gmail.com
+•Mariann Nader, 0449 184 787, mnader@dell.com
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently O+ blood is required. 
+Checking the stock inventory... 
+We can not meet the requirement. Checking the donor database...
+
+Following donors match the requirements. Please contact them for new donation.
+•Trygve Imke, 0443 023 775, trygve1995@gmail.com
+•Ignatiy Claudio, 0490 868 390, iclaudio@gmail.com
+•Mariann Nader, 0449 184 787, mnader@dell.com
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently AB+ blood is required. 
+Checking the stock inventory... 
+Following bag should be supplied
+ID: 2367 (AB+)
+Press enter once it is packed for dispatch... 
+
+Inventory records updated.
+Updated database files saved to disk.
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently O+ blood is required. 
+Checking the stock inventory... 
+We can not meet the requirement. Checking the donor database...
+
+Following donors match the requirements. Please contact them for new donation.
+•Trygve Imke, 0443 023 775, trygve1995@gmail.com
+•Ignatiy Claudio, 0490 868 390, iclaudio@gmail.com
+•Mariann Nader, 0449 184 787, mnader@dell.com
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 2
+Currently B- blood is required. 
+Checking the stock inventory... 
+We can not meet the requirement. Checking the donor database...
+
+Following donors match the requirements. Please contact them for new donation.
+•Trygve Imke, 0443 023 775, trygve1995@gmail.com
+•Jorgen Krysia, 0462 316 524, jkrysia@defence.gov.au
+•Gafar Farrukh, 0431 252 844, gfarrukh@csu.edu.au
+
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 5
+Have a Good day !!
+ 

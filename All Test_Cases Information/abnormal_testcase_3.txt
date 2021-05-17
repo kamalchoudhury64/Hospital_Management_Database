@@ -1,0 +1,15 @@
+Reason --> To check when files don't have information in proper format
+	   Or jumbled information is there
+
+Database used --> Corrupted_bags.txt
+		  Corrupted_donor.txt
+
+Test Run -->
+<<< LifeServe Blood Institute >>>
+Loading database...
+Enter the database file names without .txt extension
+or just press Enter to accept defaults 
+Donors Database (donors) :Corrupted_bags
+Stock inventory database (bags):Corrupted_donor
+Corrupted Database!!!
+Program is terminated!!!!

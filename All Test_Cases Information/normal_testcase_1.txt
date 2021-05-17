@@ -1,0 +1,43 @@
+
+Reason --> To check Functionality of function check_inventory()
+
+Database used --> donors_tc1.txt
+		  bags_tc1.txt
+
+Test Run --> 
+<<< LifeServe Blood Institute >>>
+Loading database...
+Enter the database file names without .txt extension
+or just press Enter to accept defaults 
+Donors Database (donors) :donors_tc1
+Stock inventory database (bags):bags_tc1
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 1
+Following bags are out of their use-by date
+2274
+2367
+2456
+2457
+2458
+2479
+2478
+Please dispose them of. Press enter when done... 
+
+Updated database files saved to disk. 
+------------
+Main Menu
+------------ 
+(1) Check inventory
+(2) Attend to blood demand
+(3) Record new donation
+(4) Stock visual report
+(5) Exit
+Enter your choice: 5
+Have a Good day !!
